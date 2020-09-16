@@ -1,0 +1,31 @@
+{
+    "students": [
+      {
+        "name": "Ivans",
+        "lastName": "Ivanovs",
+        "age": 21
+      },
+      {
+        "name": "Janis",
+        "lastName": "Jansons",
+        "age": 23
+      },
+      {
+        "name": "Ieva",
+        "lastName": "Ievina",
+        "age": 20
+      },
+      {
+        "name": "Peteris",
+        "lastName": "Petrovs",
+        "age": 31
+      },
+      {
+        "name": "Egors",
+        "lastName": "Egorovs",
+        "age": 31
+      }
+    ],
+
+    "status" : "success"
+  }
