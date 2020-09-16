@@ -1,4 +1,5 @@
 {
+    "status": "success",
     "students": [
       {
         "name": "Ivans",
@@ -25,7 +26,5 @@
         "lastName": "Egorovs",
         "age": 31
       }
-    ],
-
-    "status" : "success"
+    ]
   }
